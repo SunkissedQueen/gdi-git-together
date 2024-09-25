@@ -12,6 +12,8 @@ Git is a version control system that tracks changes in files and allows multiple
 
 ## Hands-On Activity: Setting Up a Local Git Repository
 
+![lgit-pic](images/terminal.png)
+
 1. **Open Terminal**:  
     - First, open your terminal application.
 
@@ -80,6 +82,8 @@ Git is a version control system that tracks changes in files and allows multiple
 ---
 
 ## Hands-On Activity: Linking/Tracking Local Project on GitHub
+
+![lgit-pic](images/linked-repo.png)
 
 ### Step 1:Create an Empty Repository on GitHub
 
