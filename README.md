@@ -47,7 +47,7 @@ Git is a version control system that tracks changes in files and allows multiple
     - Type `git add project.md` to stage your changes for commit.
 
 10. **Commit Changes**:  
-    - Now let's commit those changes with `git commit -m 'Initial commit: Add project.md'`. This saves our current state in the repository.
+    - Now let's commit those changes with `git commit -m "Initial commit: Add project.md"`. This saves our current state in the repository.
 
 11. **Creating Feature Branches**:  
     - Let's create a new branch for adding more content by typing `git checkout -b feature`. 
